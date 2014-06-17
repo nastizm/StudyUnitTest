@@ -23,5 +23,7 @@ def main():
     gacha = Gacha([1,2,3,4,5])
     print gacha.lot()
 
-if __name__ == "main":
+
+if __name__ == "__main__":
     main()
+
