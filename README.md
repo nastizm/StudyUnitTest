@@ -36,10 +36,12 @@
 chapter1
 --------
 * テストコードを書いてみよう  
-	src/chapter1/gacha.py # 実装
-	test/chapter1/test_gacha.py # テスト
 
-* 出来たら以下のコマンドで実行する    
+	src/chapter1/gacha.py # 実装  
+	test/chapter1/test_gacha.py # テスト  
+
+* 出来たら以下のコマンドで実行する 
+
 	python test/chapter1/test_gacha.py  
   
 時間が余ったらさらにテストをするメソッドを追加してみよう！    
@@ -48,8 +50,9 @@ chapter1
 chapter2
 --------
 * テストパターンを作ろう  
-	src/chapter2/shop.py # 実装
-	test/chapter2/test_shop.py # テスト
+
+	src/chapter2/shop.py # 実装  
+	test/chapter2/test_shop.py # テスト  
 
 * 出来たら以下のコマンドで実行する  
 	python test/chapter2/test_shop.py  
