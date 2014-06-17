@@ -14,8 +14,8 @@ class Item(object):
     """
     アイテムクラス
     """
-    name = ""
-    unit_price = 0
+    name = "" # 名前
+    unit_price = 0 # 単価
     
     def __init__(self, name, unit_price):
         self.name = name
