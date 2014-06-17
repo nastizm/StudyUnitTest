@@ -4,8 +4,14 @@
 
 環境構築
 ------
-1. 仮想環境を作る(再利用でもかまいません)  
+1. 仮想環境を作る(再利用するなら飛ばしてください)  
+	mkvirtualenv unittest  
+	workon unittest
+  
+	or 
+  
 	pybrew venv create unittest  
+	pybrew venv use unittest  
 
 2. cloneする  
 	git clone https://github.com/nastizm/StudyUnitTest.git
