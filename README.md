@@ -19,17 +19,17 @@
 以下のコマンドを打って、下の画面になればOK!!  
 	python test/chapter1/test_gacha.py
 
-F  
-======================================================================  
-FAIL: testLot (__main__.GachaTest)  
-----------------------------------------------------------------------  
-Traceback (most recent call last):  
-  File "test/chapter1/test_gacha.py", line 17, in testLot  
-    self.fail(u"強制的に失敗")  
-AssertionError: \u5f37\u5236\u7684\u306b\u5931\u6557  
-  
-----------------------------------------------------------------------  
-Ran 1 test in 0.001s  
+	F  
+	======================================================================  
+	FAIL: testLot (__main__.GachaTest)  
+	----------------------------------------------------------------------  
+	Traceback (most recent call last):  
+	  File "test/chapter1/test_gacha.py", line 17, in testLot  
+	    self.fail(u"強制的に失敗")  
+	AssertionError: \u5f37\u5236\u7684\u306b\u5931\u6557  
+	  
+	----------------------------------------------------------------------  
+	Ran 1 test in 0.001s  
   
 
 
@@ -37,7 +37,7 @@ Ran 1 test in 0.001s
 ------
 # テストコードを書いてみよう  
 
-出来たら以下のコマンドで実行する
+出来たら以下のコマンドで実行する  
 	python test/chapter1/test_gacha.py
 
 
@@ -45,6 +45,6 @@ Ran 1 test in 0.001s
 ------
 # テストパターンを作ろう  
 
-出来たら以下のコマンドで実行する
+出来たら以下のコマンドで実行する  
 	python test/chapter2/test_shop.py
 
