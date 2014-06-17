@@ -8,7 +8,7 @@
 	pybrew venv create unittest  
 
 2. cloneする  
-	git clone git@github.com:nastizm/StudyUnitTest.git
+	git clone https://github.com/nastizm/StudyUnitTest.git
 
 3. cloneした教材のルートパスへ  
 	cd path/to/StudyUnitTest
