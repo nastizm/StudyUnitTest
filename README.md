@@ -4,6 +4,13 @@
 
 環境構築
 ------
+* python2系
+* virtualenvwrapper もしくは pybrew
+  
+が導入されている事が前提です。  
+仮想環境の作成低順は自分の環境に合わせて作ってください。  
+
+
 1. 仮想環境を作る(再利用するなら飛ばしてください)  
 	mkvirtualenv unittest  
 	workon unittest
